@@ -5,7 +5,7 @@ jobs:
         runs-on: ubuntu-latest
         steps:
         -   name: Demo Step
-            run: echo "Wrlcome to GitHub Actions"
+            run: echo "Welcome to GitHub Actions"
 
         -   name: List Files
             run: ls
